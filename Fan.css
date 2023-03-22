@@ -1,0 +1,23 @@
+#heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body
+{
+    background-color:goldenrod;
+}
+#fanphoto
+{
+    margin-top: 30px;
+    width: 60%;
+    height: 80%;
+}
+#black
+{
+    color: white;
+    background-color:black;
+    margin-top:10px;
+    margin-left:1430px;
+}

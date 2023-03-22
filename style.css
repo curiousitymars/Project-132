@@ -1,0 +1,8 @@
+body{
+    background-color: goldenrod;
+    background-position: center;
+}
+#fan_button, #kitchen_button, #television_button {
+	margin-top: 50px;
+	position: center;
+}
